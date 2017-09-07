@@ -19,21 +19,21 @@ Thursday, 5:30-8pm, Block 1
 
 Readings:
 
-- A Brief History of DataViz (Youtube, ~90 minutes)
+- A Brief History of DataViz ([Youtube](https://www.youtube.com/watch?v=N00g9Q9stBo), ~90 minutes)
 - Data+Design, Data Fundamentals
-  - C. Neylan, Data + Design “Forward”
-  - M. Castello, Data + Design, “Basic Data Types”
-  - A. Croll, Data + Design, “About Data Aggregation”
+  - C. Neylan, Data + Design “[Forward](https://infoactive.co/data-design/foreword01.html)”
+  - M. Castello, Data + Design, “[Basic Data Types](https://infoactive.co/data-design/ch01.html)”
+  - A. Croll, Data + Design, “[About Data Aggregation](https://infoactive.co/data-design/ch02.html)”
 
 ### September 14: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 1
 
 Readings:
 
-- O. du Soleil, Data + Design, “Getting Ready for Data Cleaning”
-- M. Brademann and D. Gregory,  Data + Design, “Data Cleaning”
-- I. Tebbutt, Data + Design, “Types of Data Checks”
-- K. Pv, Data + Design, “Data Transformations”
-- Microsoft, “Top ten ways to clean your data”
+- O. du Soleil, Data + Design, “[Getting Ready for Data Cleaning](https://infoactive.co/data-design/ch07.html)”
+- M. Brademann and D. Gregory,  Data + Design, “[Data Cleaning](https://infoactive.co/data-design/ch08.html)”
+- I. Tebbutt, Data + Design, “[Types of Data Checks](https://infoactive.co/data-design/ch09.html)”
+- K. Pv, Data + Design, “[Data Transformations](https://infoactive.co/data-design/ch11.html)”
+- Microsoft, “[Top ten ways to clean your data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)”
 
 Assignment 1 Due: Analysis of a Visualization of your choice
 
@@ -41,34 +41,34 @@ Assignment 1 Due: Analysis of a Visualization of your choice
 
 Readings:
 
-- O. du Soleil, Data + Design, “Getting Ready for Data Cleaning”
-- M. Brademann and D. Gregory,  Data + Design, “Data Cleaning”
-- I. Tebbutt, Data + Design, “Types of Data Checks”
-- K. Pv, Data + Design, “Data Transformations”
-- Microsoft, “Top ten ways to clean your data”
+- O. du Soleil, Data + Design, “[Getting Ready for Data Cleaning](https://infoactive.co/data-design/ch07.html)”
+- M. Brademann and D. Gregory,  Data + Design, “[Data Cleaning](https://infoactive.co/data-design/ch08.html)”
+- I. Tebbutt, Data + Design, “[Types of Data Checks](https://infoactive.co/data-design/ch09.html)”
+- K. Pv, Data + Design, “[Data Transformations](https://infoactive.co/data-design/ch11.html)”
+- Microsoft, “[Top ten ways to clean your data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)”
 
 ### September 28: Designing Information
 
 Readings:
 
-- W. Cleveland & R. McGill “Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods”
-- K. Elliot, OpenVis on YouTube, “Everything we know about how humans interpret graphics”
-- E. Segel and J. Heer, “Narrative Visualization: Telling Stories with Data”
-- Data + Design, “Visualizing Data”
-  - M. Henry, Data + Design, “Deciding Which And How Much Data To Illustrate”
-  - E. Cooper, Data + Design, “Graphing the results of checkboxes”
-  - A. Makulec, Data + Design, “Anatomy of a Graphic”
-  - H. Coale, Data + Design, “Importance Of Color, Font, And Icons”
+- W. Cleveland & R. McGill “[Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf)”
+- K. Elliot, OpenVis on YouTube, “[Everything we know about how humans interpret graphics](https://www.youtube.com/watch?v=s0J6EDvlN30&feature=youtu.be)”
+- E. Segel and J. Heer, “[Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)”
+- Data + Design, “[Visualizing Data](https://infoactive.co/data-design/part04.html)”
+  - M. Henry, Data + Design, “[Deciding Which And How Much Data To Illustrate](https://infoactive.co/data-design/ch12.html)”
+  - E. Cooper, Data + Design, “[Graphing the results of checkboxes](https://infoactive.co/data-design/ch13.html)”
+  - A. Makulec, Data + Design, “[Anatomy of a Graphic](https://infoactive.co/data-design/ch14.html)”
+  - H. Coale, Data + Design, “[Importance Of Color, Font, And Icons](https://infoactive.co/data-design/ch15.html)”
 
 ### October 5: Data Sources
 
 Readings:
 
-- Data+Design Section 2: Collecting Data
-  - G. Law, Data + Design, “Intro to Survey Design”
-  - G. Law, Data + Design, “Types of Survey Questions”
-  - D. Gregory, Data + Design, “Additional Data Collection Methods”
-  - J. Foo, Data + Design, “Finding External Data”
+- Data+Design Section 2: [Collecting Data]((https://infoactive.co/data-design/part02.html))
+  - G. Law, Data + Design, “[Intro to Survey Design](https://infoactive.co/data-design/ch03.html)”
+  - G. Law, Data + Design, “[Types of Survey Questions](https://infoactive.co/data-design/ch04.html)”
+  - D. Gregory, Data + Design, “[Additional Data Collection Methods](https://infoactive.co/data-design/ch05.html)”
+  - J. Foo, Data + Design, “[Finding External Data](https://infoactive.co/data-design/ch06.html)”
 
 Assignment 2 Due: Write up of cleaning up & organizing data of your choice
 
@@ -76,11 +76,11 @@ Assignment 2 Due: Write up of cleaning up & organizing data of your choice
 
 Readings:
 
-- S. Rigdon, Data + Design “Print Vs. Web, Static Vs. Interactive”
-- M. Djukic, Data + Design, “Perception Deception”
-- K. Chang, K. Eyler-werve, and A. Cairo, Data + Design, “Common Visualization Mistakes”
-- A. Cesal, OpenVis on YouTube, “Why DataViz needs a Style Guide”
-- L. Harrison, OpenVis on YouTube, “User Centered Data Visualization”
+- S. Rigdon, Data + Design “[Print Vs. Web, Static Vs. Interactive](https://infoactive.co/data-design/ch16.html)”
+- M. Djukic, Data + Design, “[Perception Deception](https://infoactive.co/data-design/ch17.html)”
+- K. Chang, K. Eyler-werve, and A. Cairo, Data + Design, “[Common Visualization Mistakes](https://infoactive.co/data-design/ch18.html)”
+- A. Cesal, OpenVis on YouTube, “[Why DataViz needs a Style Guide](https://www.youtube.com/watch?v=0rQ0NP8JPHQ)”
+- L. Harrison, OpenVis on YouTube, “[User Centered Data Visualization](https://www.youtube.com/watch?v=4TfqhK1gEp4&feature=youtu.be)”
 
 ### October 19: Final Presentations & Final Assignment Due
 
