@@ -1,10 +1,10 @@
-## Visualizing Data
+# Visualizing Data
 
 Prof. Georgia Bullen, gbullen2@jhu.edu
 JHU Aitchison Program -- Fall 2017 
 Thursday, 5:30-8pm, Block 1
 
-### Assignments/Grading
+## Assignments/Grading
 
 - Assignment 1: 20%
 - Assignment 2: 20%
@@ -13,9 +13,9 @@ Thursday, 5:30-8pm, Block 1
 
 *Note: No assignments will be accepted late, for any reason other than serious illness or family emergency.*
 
-### Schedule (Topics & Readings)
+## Schedule (Topics & Readings)
 
-#### September 7: Basics of Data & Intro to Viz
+### September 7: Basics of Data & Intro to Viz
 
 Readings:
 
@@ -24,8 +24,10 @@ Readings:
   - C. Neylan, Data + Design “Forward”
   - M. Castello, Data + Design, “Basic Data Types”
   - A. Croll, Data + Design, “About Data Aggregation”
+  
+Slides: https://docs.google.com/presentation/d/1gObEOoVUPW8_J2AjXhExOdW93BXBP_pKdzuM4ZhmtnI/edit?usp=sharing
 
-#### September 14: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 1
+### September 14: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 1
 
 Readings:
 
@@ -37,7 +39,7 @@ Readings:
 
 Assignment 1 Due: Analysis of a Visualization of your choice
 
-#### September 21: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 2
+### September 21: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 2
 
 Readings:
 
@@ -47,7 +49,7 @@ Readings:
 - K. Pv, Data + Design, “Data Transformations”
 - Microsoft, “Top ten ways to clean your data”
 
-#### September 28: Designing Information
+### September 28: Designing Information
 
 Readings:
 
@@ -60,7 +62,7 @@ Readings:
   - A. Makulec, Data + Design, “Anatomy of a Graphic”
   - H. Coale, Data + Design, “Importance Of Color, Font, And Icons”
 
-#### October 5: Data Sources
+### October 5: Data Sources
 
 Readings:
 
@@ -72,7 +74,7 @@ Readings:
 
 Assignment 2 Due: Write up of cleaning up & organizing data of your choice
 
-#### October 12: Advanced Techniques & Topics
+### October 12: Advanced Techniques & Topics
 
 Readings:
 
@@ -82,16 +84,16 @@ Readings:
 - A. Cesal, OpenVis on YouTube, “Why DataViz needs a Style Guide”
 - L. Harrison, OpenVis on YouTube, “User Centered Data Visualization”
 
-#### October 19: Final Presentations & Final Assignment Due
+### October 19: Final Presentations & Final Assignment Due
 
 Final Assignment Due
 Data Visualization, Analysis & Work Process
 
-### Software
+## Software
 - Data Software: MS Excel, OpenOffice, or Google Sheets
 - Design Software: Adobe Illustrator or Inkscape 
 
-### Resources
+## Resources
 - http://datavizproject.com/
 - https://flowingdata.com/
 - https://github.com/d3/d3/wiki/Gallery
