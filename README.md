@@ -1,6 +1,6 @@
 # Visualizing Data
 
-Prof. Georgia Bullen, [gbullen2@jhu.edu]()
+Prof. Georgia Bullen, [gbullen2@jhu.edu](mailto:gbullen2@jhu.edu)
 JHU Aitchison Program -- Fall 2017 
 Thursday, 5:30-8pm, Block 1
 
@@ -92,8 +92,8 @@ Data Visualization, Analysis & Work Process
 - Design Software: Adobe Illustrator or Inkscape 
 
 ## Resources
-- [http://datavizproject.com/]()
-- [https://flowingdata.com/]()
-- [https://github.com/d3/d3/wiki/Gallery]()
-- [https://www.tableau.com/]()
+- [http://datavizproject.com/](http://datavizproject.com/)
+- [https://flowingdata.com/](https://flowingdata.com/)
+- [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
+- [https://www.tableau.com/](https://www.tableau.com/)
 
