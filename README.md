@@ -15,7 +15,7 @@ Thursday, 5:30-8pm, Block 1
 
 ## Schedule (Topics & Readings)
 
-### September 7: Basics of Data & Intro to Viz
+### September 7: Basics of Data & Intro to Viz | [Slides](https://docs.google.com/presentation/d/1gObEOoVUPW8_J2AjXhExOdW93BXBP_pKdzuM4ZhmtnI/edit?usp=sharing)
 
 Readings:
 
@@ -24,8 +24,6 @@ Readings:
   - C. Neylan, Data + Design “Forward”
   - M. Castello, Data + Design, “Basic Data Types”
   - A. Croll, Data + Design, “About Data Aggregation”
-  
-Slides: https://docs.google.com/presentation/d/1gObEOoVUPW8_J2AjXhExOdW93BXBP_pKdzuM4ZhmtnI/edit?usp=sharing
 
 ### September 14: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 1
 
