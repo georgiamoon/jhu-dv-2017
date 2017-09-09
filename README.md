@@ -1,4 +1,4 @@
-## Assignments & Grading
+## Assignments
 
 - [Assignment 1](/assignments/assignment-1.md): 20%
 - [Assignment 2](/assignments/assignment-2.md): 20%
@@ -7,7 +7,7 @@
 
 *Note: No assignments will be accepted late, for any reason other than serious illness or family emergency.*
 
-## Syllabus (Scheduls, Topics & Readings)
+## Syllabus
 
 ### September 7: Basics of Data & Intro to Viz
 
