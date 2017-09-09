@@ -1,5 +1,3 @@
-# Visualizing Data
-
 ## [Assignments/Grading](#assignments)
 
 - [Assignment 1](/assignments/assignment-1.md): 20%
