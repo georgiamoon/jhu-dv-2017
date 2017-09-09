@@ -1,19 +1,15 @@
 # Visualizing Data
 
-Prof. Georgia Bullen, [gbullen2@jhu.edu](mailto:gbullen2@jhu.edu)
-JHU Aitchison Program -- Fall 2017 
-Thursday, 5:30-8pm, Block 1
+## [Assignments/Grading](#assignments)
 
-## Assignments/Grading
-
-- Assignment 1: 20%
+- [Assignment 1](/assignments/assignment-1.md): 20%
 - Assignment 2: 20%
 - Final Assignment & Presentation: 30%
 - Participation: 30%
 
 *Note: No assignments will be accepted late, for any reason other than serious illness or family emergency.*
 
-## Schedule (Topics & Readings)
+## [Schedule (Topics & Readings)](#syllabus)
 
 ### September 7: Basics of Data & Intro to Viz
 
