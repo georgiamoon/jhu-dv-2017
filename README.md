@@ -93,11 +93,11 @@ Readings:
 Final Assignment Due
 Data Visualization, Analysis & Work Process
 
-## Software
+## [Software](#software)
 - Data Software: MS Excel, OpenOffice, or Google Sheets
 - Design Software: Adobe Illustrator or Inkscape 
 
-## Resources
+## [Resources](#resources)
 - [http://datavizproject.com/](http://datavizproject.com/)
 - [https://flowingdata.com/](https://flowingdata.com/)
 - [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
