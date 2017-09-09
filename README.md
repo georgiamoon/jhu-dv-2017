@@ -1,4 +1,4 @@
-## [Assignments/Grading](#assignments)
+## Assignments & Grading
 
 - [Assignment 1](/assignments/assignment-1.md): 20%
 - [Assignment 2](/assignments/assignment-2.md): 20%
@@ -7,7 +7,7 @@
 
 *Note: No assignments will be accepted late, for any reason other than serious illness or family emergency.*
 
-## [Schedule (Topics & Readings)](#syllabus)
+## Syllabus (Scheduls, Topics & Readings)
 
 ### September 7: Basics of Data & Intro to Viz
 
@@ -91,11 +91,11 @@ Readings:
 [Final Assignment & Presentation](/assignments/final.md) Due
 Data Visualization, Analysis & Work Process
 
-## [Software](#software)
+## Software
 - Data Software: MS Excel, OpenOffice, or Google Sheets
 - Design Software: Adobe Illustrator or Inkscape 
 
-## [Resources](#resources)
+## Resources
 - [http://datavizproject.com/](http://datavizproject.com/)
 - [https://flowingdata.com/](https://flowingdata.com/)
 - [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
