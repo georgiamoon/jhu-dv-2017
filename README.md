@@ -29,9 +29,9 @@ Class:
 
 - [Slides](https://docs.google.com/presentation/d/1gObEOoVUPW8_J2AjXhExOdW93BXBP_pKdzuM4ZhmtnI/edit?usp=sharing)
 - About Pivot Tables:
--- [Office Excel Support](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
--- [Excel Easy Tutorial](http://www.excel-easy.com/data-analysis/pivot-tables.html)
--- [Google Sheets + Pivot Tables](https://support.google.com/docs/answer/1272900?co=GENIE.Platform%3DDesktop&hl=en)
+  - [Office Excel Support](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
+  - [Excel Easy Tutorial](http://www.excel-easy.com/data-analysis/pivot-tables.html)
+  - [Google Sheets + Pivot Tables](https://support.google.com/docs/answer/1272900?co=GENIE.Platform%3DDesktop&hl=en)
 
 **[Assignment 1](/assignments/assignment-1.md)**
 
