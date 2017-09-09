@@ -15,7 +15,7 @@ Thursday, 5:30-8pm, Block 1
 
 ## Schedule (Topics & Readings)
 
-### September 7: Basics of Data & Intro to Viz | [Slides](https://docs.google.com/presentation/d/1gObEOoVUPW8_J2AjXhExOdW93BXBP_pKdzuM4ZhmtnI/edit?usp=sharing)
+### September 7: Basics of Data & Intro to Viz
 
 Readings:
 
@@ -24,6 +24,16 @@ Readings:
   - C. Neylan, Data + Design “[Forward](https://infoactive.co/data-design/foreword01.html)”
   - M. Castello, Data + Design, “[Basic Data Types](https://infoactive.co/data-design/ch01.html)”
   - A. Croll, Data + Design, “[About Data Aggregation](https://infoactive.co/data-design/ch02.html)”
+
+Class:
+
+- [Slides](https://docs.google.com/presentation/d/1gObEOoVUPW8_J2AjXhExOdW93BXBP_pKdzuM4ZhmtnI/edit?usp=sharing)
+- About Pivot Tables:
+-- [Office Excel Support](https://support.office.com/en-us/article/Create-a-PivotTable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
+-- [Excel Easy Tutorial](http://www.excel-easy.com/data-analysis/pivot-tables.html)
+-- [Google Sheets + Pivot Tables](https://support.google.com/docs/answer/1272900?co=GENIE.Platform%3DDesktop&hl=en)
+
+**[Assignment 1](/assignments/assignment-1.md)**
 
 ### September 14: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 1
 
@@ -35,7 +45,7 @@ Readings:
 - K. Pv, Data + Design, “[Data Transformations](https://infoactive.co/data-design/ch11.html)”
 - Microsoft, “[Top ten ways to clean your data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)”
 
-Assignment 1 Due: Analysis of a Visualization of your choice
+[Assignment 1](/assignments/assignment-1.md) Due: Analysis of a Visualization of your choice
 
 ### September 21: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 2
 
