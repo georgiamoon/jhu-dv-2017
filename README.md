@@ -1,8 +1,8 @@
 ## [Assignments/Grading](#assignments)
 
 - [Assignment 1](/assignments/assignment-1.md): 20%
-- Assignment 2: 20%
-- Final Assignment & Presentation: 30%
+- [Assignment 2](/assignments/assignment-2.md): 20%
+- [Final Assignment & Presentation](/assignments/final.md): 30%
 - Participation: 30%
 
 *Note: No assignments will be accepted late, for any reason other than serious illness or family emergency.*
@@ -74,7 +74,7 @@ Readings:
   - D. Gregory, Data + Design, “[Additional Data Collection Methods](https://infoactive.co/data-design/ch05.html)”
   - J. Foo, Data + Design, “[Finding External Data](https://infoactive.co/data-design/ch06.html)”
 
-Assignment 2 Due: Write up of cleaning up & organizing data of your choice
+[Assignment 2](/assignments/assignment-2.md) Due: Write up of cleaning up & organizing data of your choice
 
 ### October 12: Advanced Techniques & Topics
 
@@ -88,7 +88,7 @@ Readings:
 
 ### October 19: Final Presentations & Final Assignment Due
 
-Final Assignment Due
+[Final Assignment & Presentation](/assignments/final.md) Due
 Data Visualization, Analysis & Work Process
 
 ## [Software](#software)
