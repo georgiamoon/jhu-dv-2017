@@ -11,4 +11,4 @@ Pick a data visualization that is interesting to you (could be from the news, a 
 5. What would be your next set of questions? Is there other data that would contribute to the analysis?
 6. Brainstorm an alternative. How else could the data have been visualized or communicated?
 
-Please submit via email before class on 9/14/2017.
+** Please submit via email on Monday 9/18/2017. **
