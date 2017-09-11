@@ -39,6 +39,8 @@ Readings:
 - K. Pv, Data + Design, “[Data Transformations](https://infoactive.co/data-design/ch11.html)”
 - Microsoft, “[Top ten ways to clean your data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)”
 
+### Monday, September 18, 2017 -- Assignment 1 Due
+
 [Assignment 1](/assignments/assignment-1.md) Due: Analysis of a Visualization of your choice
 
 ### September 21: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 2
