@@ -98,8 +98,9 @@ Data Visualization, Analysis & Work Process
 - Design Software: Adobe Illustrator or Inkscape 
 
 ## Resources
-- [http://datavizproject.com/](http://datavizproject.com/)
-- [https://flowingdata.com/](https://flowingdata.com/)
-- [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
-- [https://www.tableau.com/](https://www.tableau.com/)
+- DataViz Project: [http://datavizproject.com/](http://datavizproject.com/)
+- Flowing Data: [https://flowingdata.com/](https://flowingdata.com/)
+- D3.js: [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
+- Tableau: [https://www.tableau.com/](https://www.tableau.com/)
+- Center for Data Innovation: [https://www.datainnovation.org/](https://www.datainnovation.org/)
 
