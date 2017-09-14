@@ -29,7 +29,7 @@ Class:
 
 **[Assignment 1](/assignments/assignment-1.md)**
 
-### September 14: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 1
+### September 14 & 21: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 1 & 2
 
 Readings:
 
@@ -48,15 +48,6 @@ Class
 
 [Assignment 1](/assignments/assignment-1.md) Due: Analysis of a Visualization of your choice
 
-### September 21: Data Cleaning -- Tools & Techniques (Pivot Tables, Recoding, Excel Formulas etc) - Part 2
-
-Readings:
-
-- O. du Soleil, Data + Design, “[Getting Ready for Data Cleaning](https://infoactive.co/data-design/ch07.html)”
-- M. Brademann and D. Gregory,  Data + Design, “[Data Cleaning](https://infoactive.co/data-design/ch08.html)”
-- I. Tebbutt, Data + Design, “[Types of Data Checks](https://infoactive.co/data-design/ch09.html)”
-- K. Pv, Data + Design, “[Data Transformations](https://infoactive.co/data-design/ch11.html)”
-- Microsoft, “[Top ten ways to clean your data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)”
 
 ### September 28: Designing Information
 
