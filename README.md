@@ -39,6 +39,11 @@ Readings:
 - K. Pv, Data + Design, “[Data Transformations](https://infoactive.co/data-design/ch11.html)”
 - Microsoft, “[Top ten ways to clean your data](https://support.office.com/en-us/article/Top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19)”
 
+Class
+
+- [Slides](https://docs.google.com/presentation/d/1-xh6y7s-LgCpu1WBBnjLeimPfEvhq_icLvB-XTCfdh0/edit#slide=id.g2532525d77_0_106)
+- [Data](https://disbursements.house.gov/archive.shtml)
+
 ### Monday, September 18, 2017 -- Assignment 1 Due
 
 [Assignment 1](/assignments/assignment-1.md) Due: Analysis of a Visualization of your choice
