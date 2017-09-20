@@ -43,6 +43,8 @@ Class
 
 - [Slides](https://docs.google.com/presentation/d/1-xh6y7s-LgCpu1WBBnjLeimPfEvhq_icLvB-XTCfdh0/edit#slide=id.g2532525d77_0_106)
 - [Data](https://disbursements.house.gov/archive.shtml)
+- Resources
+  - [English -> French Excel Formulas](http://www.piuha.fi/excel-function-name-translation/index.php?page=english-french.html)
 
 ### Monday, September 18, 2017 -- Assignment 1 Due
 
@@ -99,4 +101,8 @@ Data Visualization, Analysis & Work Process
 - D3.js: [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
 - Tableau: [https://www.tableau.com/](https://www.tableau.com/)
 - Center for Data Innovation: [https://www.datainnovation.org/](https://www.datainnovation.org/)
+- [NYT The Upshot](https://www.nytimes.com/section/upshot?mcubz=3)
+- [WaPo WonkBlog](https://www.washingtonpost.com/news/wonk/wp/category/data-visualization/?utm_term=.9ca257565c3d)
+- [Bloomberg Graphics](https://www.bloomberg.com/graphics/infographics/)
+- [NPR Visuals](http://blog.apps.npr.org/)
 
