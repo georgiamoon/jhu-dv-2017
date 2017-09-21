@@ -1,6 +1,8 @@
 ## Congress Data
 
-- [GovTrack](https://www.govtrack.us) --> Congresspeople, Parties, Offices, Terms
+- [House Spending](https://disbursements.house.gov/archive.shtml)
+- [ProPublica](https://projects.propublica.org/api-docs/congress-api/members/)
+- [GovTrack](https://www.govtrack.us) Deprecated --> Congresspeople, Parties, Offices, Terms
 
 ## Gender Data
 
