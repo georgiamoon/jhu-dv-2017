@@ -44,7 +44,7 @@ Class
 - [Slides](https://docs.google.com/presentation/d/1-xh6y7s-LgCpu1WBBnjLeimPfEvhq_icLvB-XTCfdh0/edit#slide=id.g2532525d77_0_106)
 - Data
   - [House Disbursement Data](https://disbursements.house.gov/archive.shtml)
-  - [ProPublica Congress Data](data/congress-2017-propublica.csv), Source: ProPublica [API](https://projects.propublica.org/api-docs/congress-api/members/)
+  - [ProPublica Senate Data](data/congress-2017-propublica-senate.csv), [ProPublica House Data](data/congress-2017-propublica-house.csv) Source: ProPublica [API](https://projects.propublica.org/api-docs/congress-api/members/)
 - Resources
   - [English -> French Excel Formulas](http://www.piuha.fi/excel-function-name-translation/index.php?page=english-french.html)
 
