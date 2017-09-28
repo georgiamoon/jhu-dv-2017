@@ -66,6 +66,13 @@ Readings:
   - A. Makulec, Data + Design, “[Anatomy of a Graphic](https://infoactive.co/data-design/ch14.html)”
   - H. Coale, Data + Design, “[Importance Of Color, Font, And Icons](https://infoactive.co/data-design/ch15.html)”
 
+Class:
+
+- [Data](data/jhu_data_09282017.csv)
+- [Tableau](https://www.tableau.com/)
+- [Raw](http://app.rawgraphs.io/)
+- [Infogram](https://infogram.com/)
+
 ### October 5: Data Sources
 
 Readings:
