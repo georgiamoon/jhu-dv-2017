@@ -58,7 +58,7 @@ Class
 Readings:
 
 - W. Cleveland & R. McGill “[Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods](http://info.slis.indiana.edu/~katy/S637-S11/cleveland84.pdf)”
-- K. Elliot, OpenVis on YouTube, “[Everything we know about how humans interpret graphics](https://www.youtube.com/watch?v=s0J6EDvlN30&feature=youtu.be)”
+- K. Elliot, OpenVis on YouTube, “[Everything we know about how humans interpret graphics](https://youtu.be/s0J6EDvlN30)”
 - E. Segel and J. Heer, “[Narrative Visualization: Telling Stories with Data](http://vis.stanford.edu/files/2010-Narrative-InfoVis.pdf)”
 - Data + Design, “[Visualizing Data](https://infoactive.co/data-design/part04.html)”
   - M. Henry, Data + Design, “[Deciding Which And How Much Data To Illustrate](https://infoactive.co/data-design/ch12.html)”
