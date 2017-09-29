@@ -102,16 +102,17 @@ Data Visualization, Analysis & Work Process
 
 ## Software
 - Data Software: MS Excel, OpenOffice, or Google Sheets
-- Design Software: Adobe Illustrator or Inkscape 
+- Design Software: Adobe Illustrator or Inkscape
+- Tableau: [https://www.tableau.com/](https://www.tableau.com/)
 
 ## Resources
-- DataViz Project: [http://datavizproject.com/](http://datavizproject.com/)
-- Flowing Data: [https://flowingdata.com/](https://flowingdata.com/)
-- D3.js: [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
-- Tableau: [https://www.tableau.com/](https://www.tableau.com/)
-- Center for Data Innovation: [https://www.datainnovation.org/](https://www.datainnovation.org/)
+- [DataViz Project](http://datavizproject.com/)
+- [Flowing Data](https://flowingdata.com/)
+- D3.js Example Gallery: [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
+- [Center for Data Innovation](https://www.datainnovation.org/)
 - [NYT The Upshot](https://www.nytimes.com/section/upshot?mcubz=3)
 - [WaPo WonkBlog](https://www.washingtonpost.com/news/wonk/wp/category/data-visualization/?utm_term=.9ca257565c3d)
 - [Bloomberg Graphics](https://www.bloomberg.com/graphics/infographics/)
 - [NPR Visuals](http://blog.apps.npr.org/)
+- [HelpMeViz](https://policyviz.com/helpmeviz/)
 
