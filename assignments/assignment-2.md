@@ -3,9 +3,9 @@
 This is an exercise to practice visualizing data that we've been working with for the last few weeks.
 
 There are 3 data sets available for use:
-- [Jan - Mar 2017 House Spending Data](assignments/assignment2data/house_JAN-MAR2017_DETAIL_ONLY.csv)
-- [Jan - Mar 2017 Senate Spending Data](assignments/assignment2data/114_sdoc7_senate_data.csv)
-- [Member data](assignments/assignment2data/propublica-member-info.csv)
+- [Jan - Mar 2017 House Spending Data](assignment2data/house_JAN-MAR2017_DETAIL_ONLY.csv)
+- [Jan - Mar 2017 Senate Spending Data](assignment2data/114_sdoc7_senate_data.csv)
+- [Member data](assignment2data/propublica-member-info.csv)
 
 Use techniques that we've been practicing in class to combine data sets, break apart fields, and do the data cleaning work necessary to create one or more visualizations using the data sets.
 
