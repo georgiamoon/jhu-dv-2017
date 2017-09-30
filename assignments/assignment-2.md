@@ -14,4 +14,4 @@ Use techniques that we've been practicing in class to combine data sets, break a
 3. Describe the data. What is the data you chose to work with? What type of variables are used in the visualization? Is the information qualitative or quantitative? What methods did you use to clean up the data to visualize it?
 4. What would be your next set of questions? Is there other data that would contribute to the analysis?
 
-** Please submit via email on Monday 10/9/2017. **
+**Please submit via email on Monday 10/9/2017.**

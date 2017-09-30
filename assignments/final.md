@@ -13,5 +13,6 @@ Write up your process, data cleaning methods, visualization methods and overall 
 
 You will present your data analysis and visualization in class and submit your write up after receiving feedback from the class in final presentations.
 
-** Final Presentations: 10/19/2017 or 10/20/2017 **
-** Please submit presenation & paper via email by Monday 10/23/2017. **
+**Final Presentations: 10/19/2017 or 10/20/2017**
+
+**Please submit presenation & paper via email by Monday 10/23/2017.**
