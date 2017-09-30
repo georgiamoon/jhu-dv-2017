@@ -83,7 +83,9 @@ Readings:
   - D. Gregory, Data + Design, “[Additional Data Collection Methods](https://infoactive.co/data-design/ch05.html)”
   - J. Foo, Data + Design, “[Finding External Data](https://infoactive.co/data-design/ch06.html)”
 
-[Assignment 2](/assignments/assignment-2.md) Due: Write up of cleaning up & organizing data of your choice
+### Monday, October 9, 2017: Assignment 2 Due
+
+[Assignment 2](/assignments/assignment-2.md) Due: Visualize Data
 
 ### October 12: Advanced Techniques & Topics
 
@@ -96,6 +98,8 @@ Readings:
 - L. Harrison, OpenVis on YouTube, “[User Centered Data Visualization](https://www.youtube.com/watch?v=4TfqhK1gEp4&feature=youtu.be)”
 
 ### October 19: Final Presentations & Final Assignment Due
+
+Final presentations will be in class this week. Please turn in the final assignment by email on Monday 10/23/2017 so that you can incorporate feedback from the final presentation.
 
 [Final Assignment & Presentation](/assignments/final.md) Due
 Data Visualization, Analysis & Work Process
