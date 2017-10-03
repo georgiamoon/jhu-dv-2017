@@ -4,7 +4,7 @@ This is an exercise to practice visualizing data that we've been working with fo
 
 There are 3 data sets available for use:
 - [Jan - Mar 2017 House Spending Data](assignment2data/house_JAN-MAR2017_DETAIL_ONLY.csv)
-- Senate Spending Data -- Update coming shortly.
+- [October 2016 - Mar 2017 Senate Spending Data](assignment2data/115sdoc2_senate_data_cleaned-combined.csv) -- This data was parsed on an experimental basis using code from the Sunlight Foundation for Senate disbursement reports. Please cite 'The Sunlight Foundation' in any usage. For more information see the readme at http://assets-reporting.s3.amazonaws.com/1.0/senate_disbursements/readme.txt.
 - [Senate Member data](assignment2data/senate-propublica.csv)
 - [House Member data](assignment2data/house-propublica.csv)
 
