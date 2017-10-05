@@ -18,6 +18,7 @@
 
 ## Data Repositories
 
+- [Data.World](https://data.world/)
 - [re3data.org](http://www.re3data.org/)
 - [DataBib](http://databib.org/)
 - [DataCite](http://www.datacite.org/)
@@ -28,6 +29,7 @@
 - [Google Public Data Explorer](https://www.google.com/publicdata/directory)
 - [IBM Many Eyes](http://www.manyeyes.com/software/analytics/manyeyes/datasets)
 - [Knoema](http://knoema.com/atlas//)
+- [Github](http://github.com)
 
 ## Government Datasets 
 
