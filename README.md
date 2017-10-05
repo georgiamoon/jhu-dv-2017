@@ -77,7 +77,7 @@ Class:
 
 Readings:
 
-- Data+Design Section 2: [Collecting Data]((https://infoactive.co/data-design/part02.html))
+- Data+Design Section 2: [Collecting Data](https://infoactive.co/data-design/part02.html)
   - G. Law, Data + Design, “[Intro to Survey Design](https://infoactive.co/data-design/ch03.html)”
   - G. Law, Data + Design, “[Types of Survey Questions](https://infoactive.co/data-design/ch04.html)”
   - D. Gregory, Data + Design, “[Additional Data Collection Methods](https://infoactive.co/data-design/ch05.html)”
