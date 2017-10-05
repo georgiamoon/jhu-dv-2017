@@ -12,9 +12,10 @@
 - Bocoup Blog Post: [https://bocoup.com/blog/global-name-data](https://bocoup.com/blog/global-name-data)
 - Wikidata: [http://whgi.wmflabs.org/data.html](http://whgi.wmflabs.org/data.html)
 
-## News Organizations
+## News/Research Organizations
 
 - [Propublica datasets](https://www.propublica.org/datastore/datasets)
+- [Pew](http://www.pewresearch.org/download-datasets/)
 
 ## Data Repositories
 
@@ -30,6 +31,8 @@
 - [IBM Many Eyes](http://www.manyeyes.com/software/analytics/manyeyes/datasets)
 - [Knoema](http://knoema.com/atlas//)
 - [Github](http://github.com)
+- [PANGAEA](https://www.pangaea.de/)
+- [American National Election Survey](http://www.electionstudies.org/)
 
 ## Government Datasets 
 
@@ -40,9 +43,12 @@
 - [Open Data Index](https://index.okfn.org/)
 - [Open Data Barometer](http://www.opendataresearch.org/project/2013/odb)
 - [Kenya’s Open Data Initiative](https://opendata.go.ke/)
+- [The National Center for Health Statistics](https://www.cdc.gov/nchs/)
 
 ## Research Institutions
 - [Academic Torrents](http://academictorrents.com/)
+- [The Interuniversity Consortium for Political and Social Research (ICPSR)](http://www.icpsr.umich.edu/icpsrweb/index.jsp)
+- [Roper Center Data](https://ropercenter.cornell.edu/)
 - American Psychological Association
 - Other professional associations
 
