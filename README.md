@@ -83,6 +83,13 @@ Readings:
   - D. Gregory, Data + Design, “[Additional Data Collection Methods](https://infoactive.co/data-design/ch05.html)”
   - J. Foo, Data + Design, “[Finding External Data](https://infoactive.co/data-design/ch06.html)”
 
+Class:
+
+- [Data Sources](data-sets.md)
+- [Tableau Training](https://www.tableau.com/learn/training?qt-training_tabs=1#qt-training_tabs)
+- [Tableau Hierarchies](http://onlinehelp.tableau.com/current/pro/desktop/en-us/buildmanual_multidimensional_drilldown.html)
+- [Tableau - UCLA Digital Humanities 101](http://dh101.humanities.ucla.edu/?page_id=163)
+
 ### Monday, October 9, 2017: Assignment 2 Due
 
 [Assignment 2](/assignments/assignment-2.md) Due: Visualize Data
