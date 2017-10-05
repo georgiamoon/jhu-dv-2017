@@ -12,6 +12,37 @@
 - Bocoup Blog Post: [https://bocoup.com/blog/global-name-data](https://bocoup.com/blog/global-name-data)
 - Wikidata: [http://whgi.wmflabs.org/data.html](http://whgi.wmflabs.org/data.html)
 
-## Other Data
+## News Organizations
 
 - [Propublica datasets](https://www.propublica.org/datastore/datasets)
+
+## Data Repositories
+
+- [re3data.org](http://www.re3data.org/)
+- [DataBib](http://databib.org/)
+- [DataCite](http://www.datacite.org/)
+- [Dryad](http://datadryad.org/)
+- [DataCatalogs.org](http://datacatalogs.org/)
+- [Open Access Directory](http://oad.simmons.edu/oadwiki/Data_repositories)
+- [Gapminder](http://www.gapminder.org/data)
+- [Google Public Data Explorer](https://www.google.com/publicdata/directory)
+- [IBM Many Eyes](http://www.manyeyes.com/software/analytics/manyeyes/datasets)
+- [Knoema](http://knoema.com/atlas//)
+
+## Government Datasets 
+
+- [Data.gov U.S. Government Data](https://www.data.gov/)
+- [U.S. Census Data](https://www.census.gov/data.html)
+- [World Bank](http://data.worldbank.org/)
+- [United Nations](http://data.un.org/)
+- [Open Data Index](https://index.okfn.org/)
+- [Open Data Barometer](http://www.opendataresearch.org/project/2013/odb)
+- [Kenya’s Open Data Initiative](https://opendata.go.ke/)
+
+## Research Institutions
+- [Academic Torrents](http://academictorrents.com/)
+- American Psychological Association
+- Other professional associations
+
+
+*Compiled pre & during the course, and borrowed from [Data & Design, Chapter 6](https://infoactive.co/data-design/ch06.html)*
