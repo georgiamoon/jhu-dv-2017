@@ -33,6 +33,8 @@
 - [Github](http://github.com)
 - [PANGAEA](https://www.pangaea.de/)
 - [American National Election Survey](http://www.electionstudies.org/)
+- [Global Partnership for Sustainable Development Data](http://www.data4sdgs.org/)
+- [Open Corporates](https://opencorporates.com/)
 
 ## Government Datasets 
 
@@ -44,6 +46,7 @@
 - [Open Data Barometer](http://www.opendataresearch.org/project/2013/odb)
 - [Kenya’s Open Data Initiative](https://opendata.go.ke/)
 - [The National Center for Health Statistics](https://www.cdc.gov/nchs/)
+- [US Health Data (Healthdata.gov)](https://www.healthdata.gov/)
 
 ## Research Institutions
 - [Academic Torrents](http://academictorrents.com/)
