@@ -104,9 +104,9 @@ Readings:
 - A. Cesal, OpenVis on YouTube, “[Why DataViz needs a Style Guide](https://www.youtube.com/watch?v=0rQ0NP8JPHQ)”
 - L. Harrison, OpenVis on YouTube, “[User Centered Data Visualization](https://www.youtube.com/watch?v=4TfqhK1gEp4&feature=youtu.be)”
 
-### October 19: Final Presentations & Final Assignment Due
+### Final Presentations (on October 16th) & Final Assignment (Due October 23rd)
 
-Final presentations will be in class this week. Please turn in the final assignment by email on Monday 10/23/2017 so that you can incorporate feedback from the final presentation.
+Final presentations will be in class on October 16th. Please turn in the final assignment by email on **Monday 10/23/2017** so that you can incorporate feedback from the final presentation.
 
 [Final Assignment & Presentation](/assignments/final.md) Due
 Data Visualization, Analysis & Work Process
