@@ -119,4 +119,5 @@ Data Visualization, Analysis & Work Process
 - [Bloomberg Graphics](https://www.bloomberg.com/graphics/infographics/)
 - [NPR Visuals](http://blog.apps.npr.org/)
 - [HelpMeViz](https://policyviz.com/helpmeviz/)
+- [Visualizing Advocacy: How to lie with Datavis](https://visualisingadvocacy.org/blog/disinformation-visualization-how-lie-datavis)
 
