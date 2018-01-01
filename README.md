@@ -77,11 +77,18 @@ Class:
 
 Readings:
 
-- Data+Design Section 2: [Collecting Data]((https://infoactive.co/data-design/part02.html))
+- Data+Design Section 2: [Collecting Data](https://infoactive.co/data-design/part02.html)
   - G. Law, Data + Design, “[Intro to Survey Design](https://infoactive.co/data-design/ch03.html)”
   - G. Law, Data + Design, “[Types of Survey Questions](https://infoactive.co/data-design/ch04.html)”
   - D. Gregory, Data + Design, “[Additional Data Collection Methods](https://infoactive.co/data-design/ch05.html)”
   - J. Foo, Data + Design, “[Finding External Data](https://infoactive.co/data-design/ch06.html)”
+
+Class:
+
+- [Data Sources](data-sets.md)
+- [Tableau Training](https://www.tableau.com/learn/training?qt-training_tabs=1#qt-training_tabs)
+- [Tableau Hierarchies](http://onlinehelp.tableau.com/current/pro/desktop/en-us/buildmanual_multidimensional_drilldown.html)
+- [Tableau - UCLA Digital Humanities 101](http://dh101.humanities.ucla.edu/?page_id=163)
 
 ### Monday, October 9, 2017: Assignment 2 Due
 
@@ -97,9 +104,9 @@ Readings:
 - A. Cesal, OpenVis on YouTube, “[Why DataViz needs a Style Guide](https://www.youtube.com/watch?v=0rQ0NP8JPHQ)”
 - L. Harrison, OpenVis on YouTube, “[User Centered Data Visualization](https://www.youtube.com/watch?v=4TfqhK1gEp4&feature=youtu.be)”
 
-### October 19: Final Presentations & Final Assignment Due
+### Final Presentations (on October 16th) & Final Assignment (Due October 23rd)
 
-Final presentations will be in class this week. Please turn in the final assignment by email on Monday 10/23/2017 so that you can incorporate feedback from the final presentation.
+Final presentations will be in class on October 16th. Please turn in the final assignment by email on **Monday 10/23/2017** so that you can incorporate feedback from the final presentation.
 
 [Final Assignment & Presentation](/assignments/final.md) Due
 Data Visualization, Analysis & Work Process
